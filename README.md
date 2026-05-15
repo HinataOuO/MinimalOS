@@ -4,7 +4,7 @@ A minimal Android launcher — aesthetic reskin of Android, not a rebuild. Clean
 
 ![Min SDK](https://img.shields.io/badge/Min%20SDK-24-brightgreen) ![Target SDK](https://img.shields.io/badge/Target%20SDK-36-blue) ![Kotlin](https://img.shields.io/badge/Kotlin-2.2-purple) ![Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-orange)
 
-## Features
+## Features - ALL UPCOMING
 
 - **Home screen** — minimal app grid, gesture navigation
 - **App drawer** — searchable, categorized
@@ -45,14 +45,6 @@ com.hina.minimalos/
     ├── widgets/     # Widget components
     └── settings/    # SettingsScreen + ViewModel
 ```
-
-## Getting Started
-
-1. Clone the repo
-2. Open in Android Studio Hedgehog or newer
-3. Run on device/emulator (API 24+)
-4. Set MinimalOS as default launcher when prompted
-
 ## Requirements
 
 - Android 7.0+ (API 24)
